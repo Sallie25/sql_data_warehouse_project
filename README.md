@@ -1,7 +1,8 @@
 # sql_data_warehouse_project
-
-This project represents a comprehensive data warehousing and analytics solution from building a data warehouse to generating actionable insights. 
+---
+This project represents a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable insights.  
 Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
 ---
 ### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -26,9 +27,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic 
 decision-making.  
 
-## 😃 About Me
+# 😃 About Me
 
-# 👋 Hi, I'm Salome Gabriel
+### 👋 Hi, I'm Salome Gabriel
 
 I'm a **Data Analyst** with over **two years** of hands-on experience turning raw data into actionable insights.
 
