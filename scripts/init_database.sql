@@ -36,7 +36,7 @@ Each schema contains tables and other objects relevant to that category.
 
 
 Hence, Schemas are like folders or containers that helps us keep things organize.
-As we had decided in the Data architectureto use the medallion type, we would be having three layers 
+As we had decided in the Data architecture to use the medallion type, we would be having three layers 
 hence we woud be creating three schemas. The bronze,silver and gold.
 
 ===========================================================================================================
